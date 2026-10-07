@@ -1,6 +1,7 @@
 # my-website
 A personal portfolio website built by Yap Lim Fung (Aaron), a Diploma in Information Technology student at Taylor's College. The website serves as a showcase of Aaron’s academic journey, technical skillset (Java, Swift, C++, HTML/CSS, JavaScript), project highlights, and certifications. Designed with a multi-page HTML/CSS layout.
-the link: https://yaplimfung.github.io/my-website/assignment/
+
+The link: https://yaplimfung.github.io/my-website/assignment/
 # Personal Portfolio Website - Yap Lim Fung (Aaron)
 
 Welcome to the repository for my personal portfolio website! This site showcases my background, programming skills, featured projects, certifications, and contact information.
